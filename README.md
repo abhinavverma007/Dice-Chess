@@ -1,2 +1,2 @@
 # Dice-Chess
-Currently trying to deploy on Heroku
+Deployed on Heroku
